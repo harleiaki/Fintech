@@ -1,8 +1,7 @@
-# Fintech
+# Fintech 
+----
 
 Esse projeto foi feito pela Origamid https://www.origamid.com/. 
-
----
 
 
 ![1](https://github.com/harleiaki/Fintech/assets/96266332/1c30d1e7-2c71-48fb-89d6-f481c7400aa3)
