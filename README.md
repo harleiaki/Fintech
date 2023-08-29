@@ -1,4 +1,6 @@
 # Fintech 
+![badge](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+![badge](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ----
 
 Esse projeto foi feito pela Origamid https://www.origamid.com/. 
