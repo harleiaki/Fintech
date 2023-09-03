@@ -1,5 +1,6 @@
 # Fintech 
 
+![badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badge](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![badge](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=blue)
 ![badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
