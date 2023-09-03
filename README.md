@@ -22,3 +22,4 @@ Podemos ver também os IDs dos clientes, nomes e valores pagos.
 
 Status e a forma de pagamento.
 
+Node --version v18.15.0
